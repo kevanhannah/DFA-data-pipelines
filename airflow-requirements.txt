@@ -1,0 +1,6 @@
+apache-airflow-providers-google==8.0.0
+pyarrow
+pandas
+psycopg2-binary
+ratelimit==2.2.1
+sqlalchemy
